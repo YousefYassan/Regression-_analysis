@@ -19,8 +19,8 @@ The data was collected from WHO and United Nations website with the help of Deek
 
 
 
-![image](https://github.com/user-attachments/assets/382e3471-80eb-4302-913d-de31f5be0f48)
 
+![image](https://github.com/user-attachments/assets/0a930d77-e7f2-4892-9c74-c7118552fea5)
 
 ![image](https://github.com/user-attachments/assets/6b25e0d9-2472-4526-8b8b-f385180227f1)
 
